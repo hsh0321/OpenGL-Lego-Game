@@ -1,4 +1,4 @@
-{% include _youtube.html id="_nfCblHYu-I" %}
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/F36fDCA7pTE/0.jpg)](https://www.youtube.com/watch?v=F36fDCA7pTE)
 
 # OpenGL-Lego-Game 😀
 　Visual Studio IDE를 이용하고 Opengl 오픈 그래픽 라이브러리를 이용하여 실습하였다. 이 API는 약 250여개 가량의 함수 호출	을 이용하여 단순한 기하도형에서부터 복잡한 삼차원 장면을 생성할 수 있다. OpenGL은 현재 CAD, 가상현실, 정보시각화, 비행 시뮬레이션 등의 분야에서 활용되고 있다. 또한 컴퓨터 게임 분야에서도 널리 활용되고 있으며, 마이크로소프트사의 Direct3D와 함께 컴퓨터 그래픽 세계를 양분하고 있다.
